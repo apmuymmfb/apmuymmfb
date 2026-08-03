@@ -1,13 +1,24 @@
-# Justice Altenwerth - Algorithm Cartographer
-## In pursuit of Diverse composite function
-A cartographer of indices, crafting navigational tools from the tapestry of data.
+# Justice Altenwerth's Automaton Sanctum
 
-### Technical Cartography
-- Rust: Mapping the frontier of systems programming
-- React: Illuminating the realm of user interfaces
-- NestJS: Charting the landscape of serverless architecture
-- GraphQL: Navigating the seas of queryable data
-- Svelte: Painting the canvas of reactive applications
+#### Future Solutions Coordinator
 
-### Indexing Cards
-A focus on indexing cards as a lens to explore the intricate relationships between disparate data structures.
+A quirky assemblage of Go tools, React sparks, and PostgreSQL talismans, all imbued with the essence of Azure
+
+### Quantifying Cards: The Mission
+
+A pursuit of logistical elegance, where cards are the currency of innovation
+
+### Motto: Reverse-engineered logistical project
+
+Whereby the intricate mechanisms of modern life are discerned, and optimized
+
+#### Technologies
+
+* Go: the molecular bonds of our creations
+* React: the lightning-fast catalysts
+* PostgreSQL: the temporal anchor
+* Azure: the celestial fabric
+
+#### Find me on the internets
+
+https://github.com/apmuymmfb

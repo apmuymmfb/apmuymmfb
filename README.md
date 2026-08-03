@@ -1,24 +1,62 @@
-# Justice Altenwerth's Automaton Sanctum
+# Justice Altenwerth's Realm of Imperfection
 
-#### Future Solutions Coordinator
+A digital Janus, gazing into the abyss of protocols, seeking perfection.
 
-A quirky assemblage of Go tools, React sparks, and PostgreSQL talismans, all imbued with the essence of Azure
+Central Identity Technician
 
-### Quantifying Cards: The Mission
+Tools of the Trade: Java, Next.js, SQL, Firebase
 
-A pursuit of logistical elegance, where cards are the currency of innovation
+Vibe: Bug Hunter
 
-### Motto: Reverse-engineered logistical project
+Focus: Parsing Protocols, whittling the margin of error.
 
-Whereby the intricate mechanisms of modern life are discerned, and optimized
+Motto: 'Virtual zero defect migration', the quest never ends.
 
-#### Technologies
+Code is my confessional, where flaws are exorcised.
 
-* Go: the molecular bonds of our creations
-* React: the lightning-fast catalysts
-* PostgreSQL: the temporal anchor
-* Azure: the celestial fabric
+#test.yml
 
-#### Find me on the internets
+name: Java Test
 
-https://github.com/apmuymmfb
+on:
+
+  push:
+
+    main
+
+jobs:
+
+  build-and-test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout code
+
+        uses: actions/checkout@v3
+
+      - name: Compile and test Java code
+
+        run: |-
+
+          javac --version
+
+          java YourJavaClass
+
+          echo 'Tests passed'
+
+      - name: Archive output
+
+        run: echo "Test successful" > output.txt
+
+      - name: Upload output
+
+        uses: actions/upload-artifact@v3
+
+        with:
+
+          name: output.txt
+
+          path: output.txt
+

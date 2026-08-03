@@ -1,16 +1,13 @@
-## Hi there 👋
+# Justice Altenwerth - Algorithm Cartographer
+## In pursuit of Diverse composite function
+A cartographer of indices, crafting navigational tools from the tapestry of data.
 
-<!--
-**apmuymmfb/apmuymmfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Cartography
+- Rust: Mapping the frontier of systems programming
+- React: Illuminating the realm of user interfaces
+- NestJS: Charting the landscape of serverless architecture
+- GraphQL: Navigating the seas of queryable data
+- Svelte: Painting the canvas of reactive applications
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Indexing Cards
+A focus on indexing cards as a lens to explore the intricate relationships between disparate data structures.
